@@ -1,0 +1,16 @@
+{
+  "name": "pintswap-signalling-server",
+  "version": "0.1.0",
+  "description": "pintswap signalling server",
+  "main": "lib/index.js",
+  "repository": "https://github.com/pintswap/pintswap-signalling-server",
+  "bin": {
+    "pintswap-webrtc-star": "./webrtc-star.js"
+  },
+  "author": "pintswap",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "libp2p-webrtc-star-signalling-server": "^0.1.2"
+  }
+}
