@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": "https://github.com/pintswap/pintswap-signalling-server",
   "bin": {
-    "pintswap-webrtc-star": "./webrtc-star.js"
+    "pintswap-signalling-server": "./webrtc-star.js"
   },
   "author": "pintswap",
   "license": "MIT",
